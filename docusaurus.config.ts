@@ -116,7 +116,7 @@ const config: Config = {
           items: [
             {
               label: 'Getting Started',
-              to: '/docs/spark/introduction',
+              to: '/docs/getting-started',
             },
           ],
         },
