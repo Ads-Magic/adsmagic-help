@@ -1,0 +1,49 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+/* Brand Colors Override */
+:root {
+  /* Electric Violet #7F00FF */
+  --ifm-color-primary: #7F00FF;
+  --ifm-color-primary-dark: #7200E6;
+  --ifm-color-primary-darker: #6B00D9;
+  --ifm-color-primary-darkest: #5800B3;
+  --ifm-color-primary-light: #8C1AFF;
+  --ifm-color-primary-lighter: #9326FF;
+  --ifm-color-primary-lightest: #A64DFF;
+
+  /* Midnight Navy Text */
+  --ifm-font-color-base: #0B0F19;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Navbar Logo Size */
+.navbar__logo {
+  height: 60px;
+  /* Increased size */
+}
+
+/* Dark Mode - Keep readable but brand aligned if user toggles */
+[data-theme='dark'] {
+  --ifm-color-primary: #00FFFF;
+  /* Neon Cyan for Dark Mode contrast */
+  --ifm-color-primary-dark: #00E6E6;
+  --ifm-color-primary-darker: #00D9D9;
+  --ifm-color-primary-darkest: #00B3B3;
+  --ifm-color-primary-light: #1AFFFF;
+  --ifm-color-primary-lighter: #26FFFF;
+  --ifm-color-primary-lightest: #4DFFFF;
+
+  --ifm-background-color: #0B0F19;
+  /* Midnight Navy Background */
+  --ifm-font-color-base: #E3E3E3;
+  /* Off-white text for dark mode */
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
