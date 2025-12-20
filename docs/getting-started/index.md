@@ -10,9 +10,9 @@ Everything you need to go from "Zero" to "Google Shopping" in under 10 minutes.
 
 ## Quick Start Guide
 
-1. **[Installation Guide](./installation)**: Get up and running in 2 minutes.
-- **[Connect to Cloud](./connect-cloud)**: Unlock Real-Time Sync & CAPI.
-- **[Health Check](./health-check)**: Understand your data quality score.
+1. **[Installation Guide](/docs/getting-started/installation)**: Get up and running in 2 minutes.
+- **[Connect to Cloud](/docs/getting-started/connect-cloud)**: Unlock Real-Time Sync & CAPI.
+- **[Health Check](/docs/getting-started/health-check)**: Understand your data quality score.
 
 ## Common Questions
 
