@@ -10,7 +10,7 @@ Resources for managing multiple client stores, configuring white-label settings,
 
 ## The Command Center
 
-* **[White Label Setup](/docs/agency-partners/white-labeling):** Replace the Ads Magic logo with your agency brand.
+* **[White Label Setup](/docs/agency-partners/white-label):** Replace the Ads Magic logo with your agency brand.
 * **[Multi-Tenant Access](/docs/agency-partners/multi-tenant):** How to switch between client accounts instantly.
 * **[Master API Key](/docs/agency-partners/onboarding-checklist):** Provisioning new sites without manual login.
 
