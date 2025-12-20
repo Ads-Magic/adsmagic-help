@@ -19,3 +19,4 @@ Everything you need to go from "Zero" to "Google Shopping" in under 10 minutes.
 * *Do I need a credit card?* (No, the Spark tier is free forever).
 * *Will this slow down my site?* (No, we use background batch processing).
 * *Can I use this for Facebook too?* (Yes, the same feed works for Meta).
+* **[Uninstall Guide](/docs/getting-started/uninstalling):** How to remove the plugin and clean up data.
