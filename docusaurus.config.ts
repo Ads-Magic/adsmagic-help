@@ -94,12 +94,12 @@ const config: Config = {
         src: 'img/logo.webp',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Documentation',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Documentation',
+        // },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://adsmagic.us',
