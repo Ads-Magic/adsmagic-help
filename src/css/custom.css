@@ -47,3 +47,20 @@
 
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Force White Navbar in Dark Mode */
+[data-theme='dark'] .navbar {
+  background-color: #fff;
+  color: #0B0F19; /* Midnight Navy Text */
+}
+
+/* Ensure links in dark mode navbar are dark */
+[data-theme='dark'] .navbar__link,
+[data-theme='dark'] .navbar__brand {
+  color: #0B0F19;
+}
+
+[data-theme='dark'] .navbar__link:hover,
+[data-theme='dark'] .navbar__link--active {
+  color: var(--ifm-color-primary); /* Neon Cyan */
+}

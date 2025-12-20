@@ -102,8 +102,8 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Ads-Magic/adsmagic-help',
-          label: 'GitHub',
+          href: 'https://adsmagic.us',
+          label: 'adsmagic.us',
           position: 'right',
         },
       ],
@@ -121,11 +121,11 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'More',
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/Ads-Magic/adsmagic-help',
+              label: 'Go to AdsMagic.us',
+              href: 'https://adsmagic.us',
             },
           ],
         },
