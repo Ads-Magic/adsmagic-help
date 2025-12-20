@@ -81,6 +81,16 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-google-tag-manager',
+      {
+        containerId: 'GTM-WPDDB9ZG',
+      },
+    ],
+  ],
+
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/logo.webp',
