@@ -102,6 +102,31 @@ const config: Config = {
         // },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
+          to: '/docs/getting-started',
+          label: 'Getting Started',
+          position: 'left',
+        },
+        {
+          to: '/docs/tracking-signals',
+          label: 'Tracking Signals',
+          position: 'left',
+        },
+        {
+          to: '/docs/profit-strategy',
+          label: 'Profit Strategy',
+          position: 'left',
+        },
+        {
+          to: '/docs/troubleshooting',
+          label: 'Troubleshooting',
+          position: 'left',
+        },
+        {
+          to: '/docs/agency-partners',
+          label: 'Agency Partners',
+          position: 'left',
+        },
+        {
           href: 'https://adsmagic.us',
           label: 'adsmagic.us',
           position: 'right',
