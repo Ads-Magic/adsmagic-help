@@ -24,8 +24,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build with verbose link checking
-        run: npm run build -- --verbose
+      - name: Build website (Link Checking Enforced by onBrokenLinks)
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
