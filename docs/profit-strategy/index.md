@@ -13,6 +13,7 @@ Move beyond ROAS. Learn to calculate true Net Profit, inject COGS, and bid based
 * **[Calculating COGS](/docs/profit-strategy/calculating-cogs):** Best practices for inputting cost data.
 * **[Setting up POAS](/docs/profit-strategy/poas-bidding):** How to configure "Profit on Ad Spend" columns in Google Ads.
 * **[The Zombie Report](/docs/profit-strategy/zombie-products):** Identifying products that spend budget but never convert.
+* **[Profit Dashboard](/docs/profit-strategy/profit-dashboard):** Real-time view of Net Profit vs Ad Spend.
 
 ## Advanced Sorcery
 
