@@ -64,3 +64,15 @@
 [data-theme='dark'] .navbar__link--active {
   color: var(--ifm-color-primary); /* Neon Cyan */
 }
+
+/* Mobile Menu Header (Sidebar Brand) - Force White in Dark Mode */
+[data-theme='dark'] .navbar-sidebar__brand {
+  background-color: #fff;
+  color: #0B0F19;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+
+/* Ensure Close Button is Dark */
+[data-theme='dark'] .navbar-sidebar__close {
+  color: #0B0F19;
+}
