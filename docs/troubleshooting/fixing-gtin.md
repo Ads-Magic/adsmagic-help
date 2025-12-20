@@ -1,6 +1,6 @@
 ---
 id: fixing-gtin
-title: How to Resolve "Missing Attribute: GTIN"
+title: 'How to Resolve "Missing Attribute: GTIN"'
 sidebar_label: Missing GTIN Fix
 description: Learn how to fix the most common Google Merchant Center disapproval.
 ---
