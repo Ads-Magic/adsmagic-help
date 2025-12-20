@@ -17,5 +17,5 @@ Resources for managing multiple client stores, configuring white-label settings,
 ## Client Success
 
 * **[Onboarding Checklist](/docs/agency-partners/onboarding-checklist):** A PDF guide for onboarding new clients to Ads Magic.
-* **[Reporting Templates](/docs/agency-partners/billing-licensing):** How to generate "Profit Reports" for your monthly meetings.
-* **[Billing FAQ](/docs/agency-partners/billing-licensing):** Managing bulk licenses and wholesale billing.
+* **[Reporting Templates](/docs/agency-partners/reporting-templates):** How to generate "Profit Reports" for your monthly meetings.
+* **[Billing FAQ](/docs/agency-partners/billing-faq):** Managing bulk licenses and wholesale billing.
