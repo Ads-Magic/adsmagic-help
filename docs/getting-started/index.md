@@ -10,9 +10,9 @@ Everything you need to go from "Zero" to "Google Shopping" in under 10 minutes.
 
 ## Quick Start Guide
 
-1. **[Installation](/docs/getting-started/installation):** Download and activate the plugin on WordPress.
-2. **[The Health Check](/docs/getting-started/health-check):** Run your first audit and understand the results.
-3. **[First Sync](/docs/getting-started/connect-google):** Generate your XML feed URL for Google Merchant Center.
+1. **[Installation Guide](./installation)**: Get up and running in 2 minutes.
+- **[Connect to Cloud](./connect-cloud)**: Unlock Real-Time Sync & CAPI.
+- **[Health Check](./health-check)**: Understand your data quality score.
 
 ## Common Questions
 
