@@ -139,10 +139,19 @@ const config: Config = {
         {
           title: 'Docs',
           items: [
-            {
-              label: 'Getting Started',
-              to: '/docs/getting-started',
-            },
+            { label: 'Getting Started', to: '/docs/getting-started' },
+            { label: 'Tracking Signals', to: '/docs/tracking-signals' },
+            { label: 'Profit Strategy', to: '/docs/profit-strategy' },
+            { label: 'Troubleshooting', to: '/docs/troubleshooting' },
+            { label: 'Agency Partners', to: '/docs/agency-partners' },
+          ],
+        },
+        {
+          title: 'Legal',
+          items: [
+            { label: 'Privacy Policy', href: 'https://adsmagic.us/privacy-policy' },
+            { label: 'Terms of Service', href: 'https://adsmagic.us/terms-of-service' },
+            { label: 'Cookie Policy', href: 'https://adsmagic.us/cookie-policy' },
           ],
         },
         {
@@ -151,6 +160,10 @@ const config: Config = {
             {
               label: 'Go to AdsMagic.us',
               href: 'https://adsmagic.us',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/Ads-Magic',
             },
           ],
         },
