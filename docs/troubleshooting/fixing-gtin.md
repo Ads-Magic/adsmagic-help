@@ -1,42 +1,38 @@
 ---
 id: fixing-gtin
-title: 'How to Resolve "Missing Attribute: GTIN"'
+title: 'How to Fix "Missing GTIN" Errors'
 sidebar_label: Missing GTIN Fix
-description: Learn how to fix the most common Google Merchant Center disapproval.
+description: Resolve the #1 reason for Google Shopping disapproval.
 ---
 
-# How to Resolve "Missing Attribute: GTIN"
+# How to Fix "Missing GTIN" Errors
 
-Learn how to fix the most common Google Merchant Center disapproval.
-
-## The Problem
-
-You see a red error in your Health Check: `Missing Attribute: GTIN`.
-This means your product feed does not contain the barcode (UPC/EAN/ISBN) for a product. Google requires this for all branded goods.
+One of the most common reasons products are disapproved is a missing **Global Trade Item Number (GTIN)**. Google requires this for all branded goods to verify authenticity.
 
 ## The Solution
 
-### Method 1: For Custom/Handmade Products (No Barcode)
+Since you are using the **Ads Magic Plugin**, we read data directly from your standard WooCommerce fields to keep things simple.
 
-If you sell custom goods (like handmade crafts or print-on-demand) that *do not* have a manufacturer barcode, you must tell Google that the "Identifier Exists" is False.
+### Scenario A: Selling Custom / Handmade Goods
+If you sell products you make yourself (e.g., art, print-on-demand) that **do not** have a manufacturer barcode:
 
-1. Log in to your **WordPress Admin**.
-2. Go to **Products > All Products**.
-3. Click **Edit** on the product with the error.
-4. Scroll down to the **Product Data** box.
-5. Click the **Ads Magic** tab (added by our plugin).
-6. Find the **"Google Attributes"** section.
-7. Set **Identifier Exists** to **"No" (False)**.
-8. Click **Update** to save the product.
+1.  Go to **Products** in your WordPress Admin.
+2.  Edit the product with the error.
+3.  Scroll down to the **Product Data** section.
+4.  Click the **Inventory** tab.
+5.  Find the **"MPN / GTIN"** or **"Global Identifier"** fields (Ads Magic enriches this area).
+6.  *Note:* For custom goods, you usually do not enter a GTIN. Instead, ensure your feed settings in Ads Magic have "Identifier Exists" set to **No** for this category.
+7.  **Update** the product.
 
-### Method 2: For Branded Products (Has Barcode)
+### Scenario B: Selling Branded Goods (Nike, Sony, etc.)
+If you resell products that have a barcode:
 
-If you are reselling branded goods (e.g., Nike, Sony), you *must* provide the GTIN.
+1.  Find the barcode (UPC/EAN) on the product packaging.
+2.  Go to **Products > Edit Product**.
+3.  Open the **Inventory** tab in the Product Data box.
+4.  Enter the number in the **GTIN / UPC** field provided.
+5.  **Update** the product.
 
-1. Locate the barcode number on your product packaging.
-2. Go to **Products > Edit Product** in WordPress.
-3. Open the **Ads Magic** tab in the Product Data box.
-4. Enter the number in the **GTIN / UPC** field.
-5. Click **Update**.
-
-*Note: For variable products, you must enter a unique GTIN for each variation (e.g., Red Shirt vs. Blue Shirt).*
+:::info
+**Why this matters:** Products with valid GTINs receive up to **40% more impressions** on Google Shopping. It is worth the effort to find them.
+:::
