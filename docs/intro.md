@@ -18,25 +18,25 @@ Select your path below to start mastering your data.
 <div class="row">
 
 <div class="col col--6 margin-bottom--lg">  
-<a class="card padding--lg cardContainer_node" href="/docs/getting-started/installation" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
+<a class="card padding--lg cardContainer_node" href="/getting-started/installation" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
 <h3 class="text--truncate">🟢 The Spark (Start Here)</h3>  
 <p>Installation, activation, and running your first Health Check. Perfect for new users.</p>  
 </a>  
 </div>  
 <div class="col col--6 margin-bottom--lg">  
-<a class="card padding--lg cardContainer_node" href="/docs/tracking-fixing/setup-capi" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
+<a class="card padding--lg cardContainer_node" href="/tracking-fixing/setup-capi" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
 <h3 class="text--truncate">🟣 The Alchemist (Tracking)</h3>  
 <p>Enable Server-Side Tracking (CAPI), fix GTIN errors, and secure your signal against iOS14.</p>  
 </a>  
 </div>  
 <div class="col col--6 margin-bottom--lg">  
-<a class="card padding--lg cardContainer_node" href="/docs/profit-strategy/poas-101" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
+<a class="card padding--lg cardContainer_node" href="/profit-strategy/poas-101" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
 <h3 class="text--truncate">🔵 The Archmage (Profit)</h3>  
 <p>Advanced strategy. Learn to calculate COGS, bid on POAS, and automate repricing rules.</p>  
 </a>  
 </div>  
 <div class="col col--6 margin-bottom--lg">  
-<a class="card padding--lg cardContainer_node" href="/docs/agency/white-label" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
+<a class="card padding--lg cardContainer_node" href="/agency/white-label" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
 <h3 class="text--truncate">🟡 The Guild (Agencies)</h3>  
 <p>Resources for partners. White labeling, multi-tenant management, and client reporting.</p>  
 </a>  

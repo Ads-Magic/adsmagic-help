@@ -113,27 +113,27 @@ const config: Config = {
         // },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          to: '/docs/getting-started',
+          to: '/getting-started',
           label: 'Getting Started',
           position: 'left',
         },
         {
-          to: '/docs/tracking-signals',
+          to: '/tracking-signals',
           label: 'Tracking Signals',
           position: 'left',
         },
         {
-          to: '/docs/profit-strategy',
+          to: '/profit-strategy',
           label: 'Profit Strategy',
           position: 'left',
         },
         {
-          to: '/docs/troubleshooting',
+          to: '/troubleshooting',
           label: 'Troubleshooting',
           position: 'left',
         },
         {
-          to: '/docs/agency-partners',
+          to: '/agency-partners',
           label: 'Agency Partners',
           position: 'left',
         },
@@ -150,11 +150,11 @@ const config: Config = {
         {
           title: 'Docs',
           items: [
-            { label: 'Getting Started', to: '/docs/getting-started' },
-            { label: 'Tracking Signals', to: '/docs/tracking-signals' },
-            { label: 'Profit Strategy', to: '/docs/profit-strategy' },
-            { label: 'Troubleshooting', to: '/docs/troubleshooting' },
-            { label: 'Agency Partners', to: '/docs/agency-partners' },
+            { label: 'Getting Started', to: '/getting-started' },
+            { label: 'Tracking Signals', to: '/tracking-signals' },
+            { label: 'Profit Strategy', to: '/profit-strategy' },
+            { label: 'Troubleshooting', to: '/troubleshooting' },
+            { label: 'Agency Partners', to: '/agency-partners' },
           ],
         },
         {
