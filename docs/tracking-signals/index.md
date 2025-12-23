@@ -10,11 +10,11 @@ Secure your data with Server-Side accuracy and verify your signals.
 
 ## Essential Signal Setup
 
-* **[Enabling CAPI](/docs/tracking-signals/setup-capi):** Turn on Server-Side Tracking in 1 click.
-* **[Connecting TikTok](/docs/tracking-signals/connect-tiktok):** Sync products and track Events API.
-* **[Enhanced Conversions](/docs/tracking-signals/enhanced-conversions):** Set up Google's hashed data tracking.
-* **[Connecting Meta](/docs/tracking-signals/connect-meta):** Sync catalog and Pixel/CAPI.
-* **[Connecting GMC](/docs/tracking-signals/connect-gmc):** Sync products to Google Merchant Center.
-* **[Verifying Signals](/docs/tracking-signals/verify-pixel):** How to check if Meta is receiving your events.
-* **[Deduplication](/docs/tracking-signals/deduplication):** Ensuring you don't count the same sale twice.
-* **[Privacy & Compliance](/docs/tracking-signals/privacy-compliance):** GDPR/CCPA handling in Server-Side Tracking.
+* **[Enabling CAPI](/tracking-signals/setup-capi):** Turn on Server-Side Tracking in 1 click.
+* **[Connecting TikTok](/tracking-signals/connect-tiktok):** Sync products and track Events API.
+* **[Enhanced Conversions](/tracking-signals/enhanced-conversions):** Set up Google's hashed data tracking.
+* **[Connecting Meta](/tracking-signals/connect-meta):** Sync catalog and Pixel/CAPI.
+* **[Connecting GMC](/tracking-signals/connect-gmc):** Sync products to Google Merchant Center.
+* **[Verifying Signals](/tracking-signals/verify-pixel):** How to check if Meta is receiving your events.
+* **[Deduplication](/tracking-signals/deduplication):** Ensuring you don't count the same sale twice.
+* **[Privacy & Compliance](/tracking-signals/privacy-compliance):** GDPR/CCPA handling in Server-Side Tracking.

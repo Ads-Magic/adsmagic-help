@@ -24,7 +24,7 @@ Select your path below to start mastering your data.
 </a>  
 </div>  
 <div class="col col--6 margin-bottom--lg">  
-<a class="card padding--lg cardContainer_node" href="/tracking-fixing/setup-capi" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
+<a class="card padding--lg cardContainer_node" href="/tracking-signals/setup-capi" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
 <h3 class="text--truncate">🟣 The Alchemist (Tracking)</h3>  
 <p>Enable Server-Side Tracking (CAPI), fix GTIN errors, and secure your signal against iOS14.</p>  
 </a>  
@@ -36,7 +36,7 @@ Select your path below to start mastering your data.
 </a>  
 </div>  
 <div class="col col--6 margin-bottom--lg">  
-<a class="card padding--lg cardContainer_node" href="/agency/white-label" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
+<a class="card padding--lg cardContainer_node" href="/agency-partners/white-label" style="height: 100%; border: 1px solid var(--ifm-color-emphasis-200);">  
 <h3 class="text--truncate">🟡 The Guild (Agencies)</h3>  
 <p>Resources for partners. White labeling, multi-tenant management, and client reporting.</p>  
 </a>  
