@@ -58,6 +58,6 @@ To get the most out of Ads Magic, it helps to understand our vocabulary.
 
 If you can't find the answer here, we are ready to help.
 
-* **Community:** Join our [GitHub Discussions](https://www.google.com/search?q=https://github.com/your-org/adsmagic/discussions) for peer advice.  
-* **Priority Support:** Paid users can open a ticket directly from the [SaaS Dashboard](https://www.google.com/search?q=https://app.adsmagic.us).  
-* **System Status:** Check our API uptime [here](https://www.google.com/search?q=%23).
+* **Community:** Join our [GitHub Discussions](https://github.com/Ads-Magic/adsmagic-product-feeds-for-woocommerce/discussions) for peer advice.  
+* **Priority Support:** Paid users can open a ticket directly from the [SaaS Dashboard](https://app.adsmagic.us).  
+* **System Status:** Check our API uptime [here](https://status.adsmagic.us).
