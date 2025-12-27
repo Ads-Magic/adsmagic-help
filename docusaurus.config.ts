@@ -20,6 +20,17 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://GX2SBOGGGQ-dsn.algolia.net',
+        crossorigin: 'anonymous',
+      },
+    },
+  ],
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Ads-Magic', // Usually your GitHub org/user name.
