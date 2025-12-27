@@ -17,18 +17,33 @@ Most plugins just generate a file. Ads Magic performs a **Profit Audit** to ensu
 ## Understanding the Status
 
 ### 🟢 Healthy (Green)
-Your data is clean. You are ready to sync to Google Merchant Center.
+Your data is clean. You are ready to upload your feed to Google Merchant Center.
 
 ### 🟡 Warning (Yellow)
 Your feed will work, but it's not optimized.
 * *Example:* "Missing Brand attribute" or "Short Description."
-* *Impact:* Lower ad rank, but not disapproval.
+* *Impact:* Lower ad rank, but products will likely be approved.
 
 ### 🔴 Critical (Red)
 **Stop!** These errors will get your products disapproved or your account suspended.
 * *Example:* "Missing GTIN," "Price Mismatch," or "Missing Image."
 * *Action:* You must fix these before enabling the feed.
 
-:::tip Pro Tip
-Click the **"Fix"** button next to any error to jump directly to the product edit screen or bulk editor.
+## Supported Formats
+The Health Check works for all feed types:
+*   **XML Feeds**: Analyzed structure and content.
+*   **CSV/TSV Feeds**: We scan for standard headers (e.g., `google_product_category`, `id`, `price`) to ensure compliance with Google's spreadsheet requirements.
+
+## Troubleshooting Common Errors
+
+### "Missing Google Product Category"
+*   **Cause**: You haven't mapped your WooCommerce category to Google's Taxonomy.
+*   **Fix**: Go to **Manage Feeds > Edit (Pencil Icon)** and complete **Step 3: Category Mapping**.
+
+### "Missing GTIN"
+*   **Cause**: Missing UPC/EAN barcode.
+*   **Fix**: Add the barcode to the `_gtin`, `_wpm_gtin_code`, or standard WooCommerce identifier fields.
+
+:::tip Quick Fix
+Click the **"Fix"** button next to any error to jump directly to the product edit screen or bulk editor where you can resolve the issue.
 :::

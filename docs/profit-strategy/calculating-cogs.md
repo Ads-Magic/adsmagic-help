@@ -11,12 +11,19 @@ To calculate **Net Profit** and **POAS**, Ads Magic needs to know how much each 
 
 ## Where to Enter Data
 
-### Option A: The "All Products" List (Quick)
-1.  Go to **Products > All Products** in WordPress.
-2.  We add a **"Cost"** column to this list.
-3.  Click the **"Quick Edit"** button on any product.
-4.  Enter the value in the **"Cost ($)"** field.
-5.  Click Update.
+### Option A: Product Edit Screen (Recommended)
+1.  Go to **Products** and click **Edit** on any product.
+2.  Scroll down to the **Product Data** section.
+3.  In the **General** tab (below the Regular/Sale Price), find the **AdsMagic: Cost of Goods ($)** field.
+4.  Enter your raw cost.
+5.  *Tip*: A preview of your **Gross Profit** will appear instantly in green (or red for loss) below the field.
+6.  Click **Update** to save.
+
+### Option B: The "All Products" List (Quick Edit)
+1.  Go to **Products > All Products**.
+2.  Click **Quick Edit** on any product.
+3.  Enter the value in the **"Cost ($)"** field.
+4.  Click Update.
 
 ### Option B: Bulk Edit (Fastest)
 1.  Select multiple products using the checkboxes.
