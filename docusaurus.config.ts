@@ -192,7 +192,7 @@ const config: Config = {
       indexName: 'adsmagic-help',
 
       // Optional: see doc section below
-      contextualSearch: true,
+      contextualSearch: false,
     },
   } satisfies Preset.ThemeConfig,
 };
