@@ -1,3 +1,4 @@
+```
 ---
 id: introduction
 title: Welcome to Ads Magic
@@ -5,9 +6,12 @@ sidebar_label: Introduction
 slug: /
 ---
 
-# **Welcome to Ads Magic**
+# Introduction
+Welcome to the **AdsMagic Product Feeds** documentation.
 
-**Ads Magic** is the first **Profit Intelligence Platform** for e-commerce. We bridge the gap between your store's raw data and the advertising algorithms of Google, Meta, and TikTok.
+**Current Version**: 1.2.0
+
+AdsMagic helps you sync your WooCommerce products to Google Merchant Center, Meta (Facebook/Instagram), and other platforms with ease. **Ads Magic** is the first **Profit Intelligence Platform** for e-commerce. We bridge the gap between your store's raw data and the advertising algorithms of Google, Meta, and TikTok.
 
 Unlike standard "feed plugins" that simply generate XML files, Ads Magic acts as a **Hybrid Intelligence Layer**. We combine a lightweight WordPress plugin with a powerful Cloud Engine to sync products in real-time, track server-side conversions (CAPI), and optimize bids based on **Net Profit** (POAS), not just revenue.
 
