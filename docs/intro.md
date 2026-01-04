@@ -4,6 +4,7 @@ id: introduction
 title: Welcome to Ads Magic
 sidebar_label: Introduction
 slug: /
+sidebar_position: 1
 ---
 
 # Introduction
