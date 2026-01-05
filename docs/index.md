@@ -1,4 +1,3 @@
-```
 ---
 id: introduction
 title: Welcome to Ads Magic

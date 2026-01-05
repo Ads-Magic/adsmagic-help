@@ -110,33 +110,14 @@ const config: Config = {
         // },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          to: '/getting-started',
-          label: 'Getting Started',
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
           position: 'left',
+          label: 'Documentation',
         },
         {
-          to: '/tracking-signals',
-          label: 'Tracking Signals',
-          position: 'left',
-        },
-        {
-          to: '/profit-strategy',
-          label: 'Profit Strategy',
-          position: 'left',
-        },
-        {
-          to: '/troubleshooting',
-          label: 'Troubleshooting',
-          position: 'left',
-        },
-        {
-          to: '/agency-partners',
-          label: 'Agency Partners',
-          position: 'left',
-        },
-        {
-          href: 'https://www.facebook.com/groups/adsmagic.community/',
-          label: 'Community Support',
+          to: '/community-support',
+          label: 'Community',
           position: 'right',
         },
         {
