@@ -135,6 +135,11 @@ const config: Config = {
           position: 'left',
         },
         {
+          href: 'https://www.facebook.com/groups/adsmagic.community/',
+          label: 'Community Support',
+          position: 'right',
+        },
+        {
           href: 'https://adsmagic.us',
           label: 'adsmagic.us',
           position: 'right',
@@ -165,6 +170,10 @@ const config: Config = {
         {
           title: 'More',
           items: [
+            {
+              label: 'Community Support',
+              href: 'https://www.facebook.com/groups/adsmagic.community/',
+            },
             {
               label: 'Go to AdsMagic.us',
               href: 'https://adsmagic.us',

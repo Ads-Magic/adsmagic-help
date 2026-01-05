@@ -18,6 +18,12 @@ Unlike standard "feed plugins" that simply generate XML files, Ads Magic acts as
 
 ## **Explore the Grimoire**
 
+:::tip Join the Community
+Need help or want to discuss strategy? Join our **[Facebook Community Group](https://www.facebook.com/groups/adsmagic.community/)** for support and updates.
+:::
+
+
+
 Select your path below to start mastering your data.
 
 <div class="row">
